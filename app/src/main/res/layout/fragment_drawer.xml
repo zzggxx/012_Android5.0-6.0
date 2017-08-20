@@ -1,0 +1,8 @@
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/colorBackground"
+    android:choiceMode="singleChoice"
+    tools:context=".NavigationDrawerFragment" />
+    <!--todo:1,跟布局直接是控件节省层局深度;2,单选模式singChoice-->
