@@ -7,45 +7,57 @@ import android.webkit.WebView;
 import android.widget.Toast;
 
 import com.itheima.androidl.R;
+
+/**
+ * 基类
+ */
+
 public abstract class BaseFragment extends Fragment {
 
-	protected View mRootView;
-	protected View mDemoView;
-	protected WebView mWebView;
-	protected boolean isDemoShow = true;
+    protected View mRootView;
+    protected View mDemoView;
+    protected WebView mWebView;
+    protected boolean isDemoShow = true;
 
-	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-		if (mRootView == null) {
-			mRootView = initView();
-			mDemoView = mRootView.findViewById(R.id.demo);
-			mWebView = (WebView) mRootView.findViewById(R.id.web);
-			mWebView.getSettings().setDisplayZoomControls(false);
-			mWebView.loadUrl(getUrl());
-		}
-		refreshView();
-		Toast.makeText(getActivity(), isDemoShow + "", Toast.LENGTH_SHORT).show();
-		return mRootView;
-	}
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        if (mRootView == null) {
 
-	protected abstract View initView();
+            mRootView = initView();
 
-	protected void refreshView() {
-		mDemoView.setVisibility(isDemoShow ? View.VISIBLE : View.INVISIBLE);
-		mWebView.setVisibility(isDemoShow ? View.INVISIBLE : View.VISIBLE);
-	}
+            mDemoView = mRootView.findViewById(R.id.demo);
 
-	public boolean onOptionsItemSelected(MenuItem menu) {
-		if (menu.getItemId() == R.id.action_example) {
-			isDemoShow = !isDemoShow;
-			refreshView();
-			return true;
-		}
-		return false;
-	}
+            mWebView = (WebView) mRootView.findViewById(R.id.web);
+            mWebView.getSettings().setDisplayZoomControls(false);
+            mWebView.loadUrl(getUrl());
+        }
 
-	public boolean onCreateOptionsMenu(Menu menu) {
-		return true;
-	}
+        refreshView();
+        Toast.makeText(getActivity(), isDemoShow + "", Toast.LENGTH_SHORT).show();
 
-	public abstract String getUrl();
+        return mRootView;
+    }
+
+    protected abstract View initView();
+
+    protected void refreshView() {
+        mDemoView.setVisibility(isDemoShow ? View.VISIBLE : View.INVISIBLE);
+        mWebView.setVisibility(isDemoShow ? View.INVISIBLE : View.VISIBLE);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem menu) {
+        if (menu.getItemId() == R.id.action_example) {
+            isDemoShow = !isDemoShow;
+            refreshView();
+            return true;
+        }
+        return false;
+    }
+
+    public boolean onCreateOptionsMenu(Menu menu) {
+        return true;
+    }
+
+    public abstract String getUrl();
 }
