@@ -6,8 +6,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
+        card_view:cardElevation="6dp"
+        card_view:theme="@style/AlertDialog.AppCompat"
         card_view:cardBackgroundColor="@color/cardview_light_background"
-        card_view:cardCornerRadius="1dp">
+        card_view:cardCornerRadius="5dp">
 
         <RelativeLayout
             android:layout_width="match_parent"

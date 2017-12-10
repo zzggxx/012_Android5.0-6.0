@@ -2,103 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\5d78ad6bd835785d5b6ac21d26ece6ac9e8e62a8\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\4cead937aba47f96d412e60ad60120e7629d20f7\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccedb3e7181c824f9a806bde98e8a8dd6616a0d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\def1c4668a64e39a68fe158373836960b885dd52\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e009daa91a70c9c921c9e67960d12850ff4efd1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\90ce0a879b27b89c39c1aaf42d65ab82292d4d7d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c70eb166099d00f211db814222bfadfdee6ce9ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_4a1dba00b7a4a0d3b9863f2a0185fd78f1c060d9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\b38650506b94d90a6c92a3941ea20fb3e45d2229\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b80854767f025310599cc54549449ae91d7730c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\a5e87bd5cd6aad6087973a5e565f4c1cea097339\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
+        revision="26.0.1"
         sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d045ee0fda58f1b09ac04241dc5b464327f6ade\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8f93c9beafc5558e0a62510f3239c11b8b34db4b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e774519d429476a9ca17ee1276a5963a9c26ccac">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0d5421e7659057dce166468f968e906bd0bbd65d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\6491b3e71a9a2d722e4e99441ec708c35f35924e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03d43f627d5731efb00716ac41e8b4b1888b480f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\195b1a40d6b8765cf6633dd156c24f0a61aaa907\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0accfaaf8022c2ac988748fb04f577a6037e8883\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\will\.android\build-cache\b38650506b94d90a6c92a3941ea20fb3e45d2229\output\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_39316bcc04c1dd8264b447b4a08efb6bbcd7393a\classes.dex" />
+        <dex dex="E:\GithubAndroidProjects\Android5.0-6.0\ThemeDemo\build\intermediates\pre-dexed\debug\classes_0ea3c4e94600ef92b862b5e6e53a32234bd4f06a.jar" />
     </item>
 
 </items>

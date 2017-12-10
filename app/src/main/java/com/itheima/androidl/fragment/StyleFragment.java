@@ -79,12 +79,18 @@ public class StyleFragment extends BaseFragment implements MenuItem.OnMenuItemCl
 		return true;
 	}
 
+	/**
+	 * 修改主题的方式
+	 * @param item
+	 * @return
+	 */
 	@Override
 	public boolean onMenuItemClick(MenuItem item) {
 		for (int i = 0; i < menuTitles.length; i++) {
 
 			if (item.getTitle().equals(menuTitles[i])) {
 				Toast.makeText(getActivity(),item.getTitle(),Toast.LENGTH_SHORT).show();
+//				重点是这两行代码
 				setTheme(i);
 				reload();
 				return true;
@@ -168,8 +174,11 @@ public class StyleFragment extends BaseFragment implements MenuItem.OnMenuItemCl
 		}
 	}
 
+	/**
+	 * 死代码,重新创建
+	 */
 	protected void reload() {
-		Intent intent = getActivity().getIntent();
+		Intent intent = getActivity().getIntent();//打开人的intent,后边重新开启的时候又塞回去了
 		getActivity().overridePendingTransition(0, 0);
 		intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
 		getActivity().finish();

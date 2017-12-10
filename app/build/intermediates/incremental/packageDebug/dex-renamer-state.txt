@@ -1,7 +1,4 @@
-#Sat Dec 09 17:30:58 CST 2017
-base.0=F\:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8f93c9beafc5558e0a62510f3239c11b8b34db4b
-renamed.1=classes2.dex
+#Sun Dec 10 23:58:42 CST 2017
+base.0=E\:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=F\:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0d5421e7659057dce166468f968e906bd0bbd65d\\classes.dex
-base.1=F\:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0d5421e7659057dce166468f968e906bd0bbd65d
-file.0=F\:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8f93c9beafc5558e0a62510f3239c11b8b34db4b\\classes.dex
+file.0=E\:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

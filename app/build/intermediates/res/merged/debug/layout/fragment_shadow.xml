@@ -179,6 +179,7 @@
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"/>
 
+            <!-- 阴影的设置方式 -->
             <LinearLayout
                     android:gravity="center_horizontal"
                     android:layout_width="match_parent"
@@ -206,7 +207,7 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:outlineProvider="background"
-                        android:elevation="10dp"
+                        android:elevation="20dp"
                         android:background="@drawable/circle_shape"/>
             </LinearLayout>
 

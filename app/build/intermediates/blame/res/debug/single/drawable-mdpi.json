@@ -1,26 +1,14 @@
 [
     {
-        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
-        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
+        "source": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
-        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\02_Android5.0\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
-        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
-        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\02_Android5.0\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\02_Android5.0\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
     }
 ]
