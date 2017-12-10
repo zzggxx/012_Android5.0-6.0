@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--activity需要是原生的activity-->
+    <!--<style name="AppTheme" parent="android:Theme.Material.NoActionBar">-->
+
+    <!--可以兼容AppCompatActivity-->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">#ff0000</item> //定义状态栏颜色
+        <item name="android:navigationBarColor">#0000ff</item> //定义导航栏颜色
+    </style>
+
+</resources>
