@@ -1,13 +1,12 @@
 package com.itheima.androidl;
 
-import android.app.Activity;
 import android.app.ActionBar;
+import android.app.Activity;
 import android.app.FragmentManager;
 import android.os.Bundle;
-
-import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarDrawerToggle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -64,8 +63,15 @@ public class MainActivity extends Activity implements DrawerLayout.DrawerListene
     }
 
 
+    /**
+     * 右侧按钮
+     *
+     * @param menu
+     * @return
+     */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
+        //左侧的按钮没有出来才显示
         if (!mDrawerLayout.isDrawerOpen(GravityCompat.START)) {
             getMenuInflater().inflate(R.menu.main, menu);
             mCurrentFragment.onCreateOptionsMenu(menu);
@@ -74,6 +80,11 @@ public class MainActivity extends Activity implements DrawerLayout.DrawerListene
         return super.onCreateOptionsMenu(menu);
     }
 
+    /**
+     * 点选右侧按钮的时候的选择
+     * @param item
+     * @return
+     */
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         return mToggle.onOptionsItemSelected(item) || mCurrentFragment.onOptionsItemSelected(item) || super.onOptionsItemSelected(item);
