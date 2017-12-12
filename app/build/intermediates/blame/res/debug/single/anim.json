@@ -1,54 +1,54 @@
 [
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\reveal_x.xml",
-        "source": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\src\\main\\res\\anim\\reveal_x.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\reveal_x.xml",
+        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\anim\\reveal_x.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vector_anim.xml",
-        "source": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\src\\main\\res\\anim\\vector_anim.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vector_anim.xml",
+        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\anim\\vector_anim.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vector_rotation.xml",
+        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\anim\\vector_rotation.xml"
     },
     {
-        "merged": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vector_rotation.xml",
-        "source": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\src\\main\\res\\anim\\vector_rotation.xml"
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\anim\\abc_popup_exit.xml"
     }
 ]

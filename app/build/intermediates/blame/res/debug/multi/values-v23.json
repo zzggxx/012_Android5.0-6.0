@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\GithubAndroidProjects\\Android5.0-6.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "outputFile": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 185
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 320
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 482
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +88,7 @@
                     "endOffset": 1272
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -109,7 +109,7 @@
                     "endOffset": 2074
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -129,7 +129,7 @@
                     "endOffset": 2179
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -148,7 +148,7 @@
                     "endOffset": 2294
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -167,7 +167,7 @@
                     "endOffset": 2401
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -186,7 +186,7 @@
                     "endOffset": 2514
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\5688f8b55a0a8b39e57e5a7b3503ee59ed4012a2\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -206,7 +206,7 @@
                     "endOffset": 2664
                 },
                 "from": {
-                    "file": "C:\\Users\\Lenovo\\.android\\build-cache\\4cead937aba47f96d412e60ad60120e7629d20f7\\output\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\will\\.android\\build-cache\\a5e87bd5cd6aad6087973a5e565f4c1cea097339\\output\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
