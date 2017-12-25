@@ -3,30 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="F:\will_meijuji_learn\Android5.0-6.0\CardView\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="F:\will_meijuji_learn\Android5.0-6.0\jsongson\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\CardView\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_55c5019db1c596d43ed11877726e0ed14cb14c82\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\will\.android\build-cache\5e26880ad419b580303177f0adf0e781b3943917\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\CardView\build\intermediates\pre-dexed\debug\classes_3545728b3dd3be35aaef51c7fb1ea8f8dfe8a09d.jar" />
+        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\jsongson\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d8182eb700413da6823b15d8db4c635931bae4a8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\will_meijuji_learn\Android5.0-6.0\CardView\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\will\.gradle\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="58608d54b031d4f47d299315c7ced7b7981bab02">
-        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\CardView\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_496369fe0a5bd9300408a30dc7896887bebc3784\classes.dex" />
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\jsongson\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_bbc26de07e691c85b00a1acc8322f80263996794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\will_meijuji_learn\Android5.0-6.0\jsongson\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cca48663514fa0815fd63b7e6911e30788e9ddb">
+        <dex dex="F:\will_meijuji_learn\Android5.0-6.0\jsongson\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a94cfb1efa9de31a1c38d559bbe1bdfda4684ad5\classes.dex" />
     </item>
 
 </items>

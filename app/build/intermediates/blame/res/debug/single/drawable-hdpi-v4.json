@@ -136,12 +136,12 @@
         "source": "C:\\Users\\will\\.android\\build-cache\\195b1a40d6b8765cf6633dd156c24f0a61aaa907\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g3.jpg",
-        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\drawable-hdpi\\g3.jpg"
-    },
-    {
         "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g6.jpg",
         "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\drawable-hdpi\\g6.jpg"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g3.jpg",
+        "source": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\src\\main\\res\\drawable-hdpi\\g3.jpg"
     },
     {
         "merged": "F:\\will_meijuji_learn\\Android5.0-6.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p43.jpg",

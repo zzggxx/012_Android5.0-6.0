@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CardView/CardView.iml" filepath="$PROJECT_DIR$/CardView/CardView.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThemeDemo/ThemeDemo.iml" filepath="$PROJECT_DIR$/ThemeDemo/ThemeDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsongson/jsongson.iml" filepath="$PROJECT_DIR$/jsongson/jsongson.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,62 @@
+{
+  "rank": 1,
+  "rank1": " ",
+  "rankString": "1",
+  "staffs": [
+    {
+      "staff_id": "a67487c4ec0b40f3964c64ac459ddb94",
+      "staff_name": "",
+      "staff_position": "艺术总监",
+      "staff_img": "",
+      "service_pfm": 0,
+      "titles": [
+        "剪发之星"
+      ],
+      "rank": 1
+    },
+    {
+      "staff_id": "bb55fff3f59b44e9b3ba4a170d51486e",
+      "staff_name": "",
+      "staff_position": "高级发型师",
+      "staff_img": "",
+      "service_pfm": 0,
+      "titles": [
+        "烫发之星",
+        "染发之星",
+        "护发之星"
+      ],
+      "rank": 2
+    },
+    {
+      "staff_id": "f70fbde832b94620ab8b232ba4f5ae5a",
+      "staff_name": "",
+      "staff_position": "艺术总监",
+      "staff_img": "",
+      "service_pfm": 0,
+      "titles": [
+      ],
+      "rank": 3
+    },
+    {
+      "staff_id": "82a132e1f8a44b7897ab00ebd693aa13",
+      "staff_name": "",
+      "staff_position": "特级发型师",
+      "staff_img": "",
+      "service_pfm": 0,
+      "titles": [
+      ],
+      "rank": 4
+    },
+    {
+      "staff_id": "055292a370064ce39d73af80e9c24643",
+      "staff_name": "",
+      "staff_position": "高级发型师",
+      "staff_img": "",
+      "service_pfm": 0,
+      "titles": [
+        "洗吹之星"
+      ],
+      "rank": 5
+    }
+  ]
+}

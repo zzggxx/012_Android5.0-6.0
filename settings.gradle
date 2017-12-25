@@ -1,1 +1,1 @@
-include ':app', ':ThemeDemo', ':CardView'
+include ':app', ':ThemeDemo', ':CardView', ':jsongson'
