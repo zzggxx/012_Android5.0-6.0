@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/ThemeDemo" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/jsongson" />
+            <option value="$PROJECT_DIR$/recyclerviewpartrefresh" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
